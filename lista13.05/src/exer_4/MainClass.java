@@ -12,8 +12,7 @@ public class MainClass {
 		Scanner teclado = new Scanner(System.in);
 		
 		List<Object> formas = new ArrayList<>();
-		//List<Retangulo> retangulos = new ArrayList<>();
-		//List<Circulo> circulos = new ArrayList<>();
+
 		
 		System.out.println("Digite a quantidade de formas: ");
 		int qtdFormas = teclado.nextInt();
