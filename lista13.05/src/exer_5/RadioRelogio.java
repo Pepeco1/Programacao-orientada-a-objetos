@@ -17,6 +17,7 @@ public class RadioRelogio implements Radio, Relogio {
 		this.horario = "00:00";
 		this.volumeRadio = 0;
 		this.volumeRelogio = 0;
+		
 	}
 
 	@Override
