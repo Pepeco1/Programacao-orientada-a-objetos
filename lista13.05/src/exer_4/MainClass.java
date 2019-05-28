@@ -1,3 +1,4 @@
+package exer_4;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -69,6 +70,8 @@ public class MainClass {
 			}
 			
 		}
+		
+		teclado.close();
 		
 		int j = 0;
 		for(Object objeto: formas) {
